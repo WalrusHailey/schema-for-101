@@ -1,0 +1,27 @@
+    <script type="application/ld+json">
+      {
+        "@context":"https://schema.org",
+        "@type":"Corporation",
+        "brand":"101原創",
+        "url":"https://www.101.com.tw/",
+        "sameAs": [
+          "https://www.facebook.com/Tshirt101",
+          "https://www.instagram.com/101od_official/",
+          "http://line.naver.jp/ti/p/%40101t-shirt",
+          "https://www.youtube.com/user/101Tshirt"
+        ],
+        "logo":"101原創的LOGO圖檔網址",
+        "contactPoint": [
+          { "@type": "ContactPoint",
+            "telephone": "0800的客服電話號碼",
+            "contactType": "customer service",
+            "contactOption": "TollFree",
+            "areaServed": "TW"
+          },{
+            "@type": "ContactPoint",
+            "telephone": "一般的客服電話號碼",
+            "contactType": "customer service"
+          }
+        ]
+      }
+    </script>
